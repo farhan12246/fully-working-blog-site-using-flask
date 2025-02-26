@@ -13,5 +13,5 @@ psycopg2-binary==2.9.9
 python-dotenv==1.0.1
 email-validator==2.2.0
 blinker==1.9.0
-flask-mysql-db==1.5.2
-PyMySQL==1.1.0
+Flask-MySQL
+PyMySQL
